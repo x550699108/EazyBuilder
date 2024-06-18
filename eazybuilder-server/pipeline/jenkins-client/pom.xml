@@ -260,7 +260,7 @@
 		<dependency>
 			<groupId>org.redisson</groupId>
 			<artifactId>redisson</artifactId>
-			<version>3.8.0</version>
+			<version>3.30.0</version>
 			<exclusions>
 				<exclusion>
 					<artifactId>snakeyaml</artifactId>
