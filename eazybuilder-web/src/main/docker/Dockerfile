@@ -1,4 +1,4 @@
-FROM nginx:1.22
+FROM nginx:1.26.1
 
 RUN apt update && apt-get install unzip
 ADD eazybuilder-web*.jar /tmp/eazybuilder-web.jar
