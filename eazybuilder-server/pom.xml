@@ -14,7 +14,7 @@
   </modules>
   <properties>
         <compiler.version>1.8</compiler.version>
-        <spring-boot.version>2.3.4.RELEASE</spring-boot.version>
+        <spring-boot.version>3.1.0</spring-boot.version>
         <docker.build.host>0.0.0.0:22375</docker.build.host>
         <docker.registry>registry.eazybuilder-devops.cn</docker.registry>
         <skip.docker.build>true</skip.docker.build>
@@ -125,7 +125,7 @@
         <dependency>
                 <groupId>com.fasterxml.jackson.module</groupId>
                 <artifactId>jackson-module-jaxb-annotations</artifactId>
-                <version>2.9.0</version>
+                <version>2.15.0</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
