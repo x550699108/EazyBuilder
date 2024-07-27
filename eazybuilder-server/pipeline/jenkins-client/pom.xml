@@ -87,7 +87,7 @@
 		<dependency>
 			<groupId>com.alibaba.cloud</groupId>
 			<artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
-			<version>2.2.3.RELEASE</version>
+			<version>2.2.7.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>com.alibaba</groupId>
@@ -102,7 +102,7 @@
 		<dependency>
 			<groupId>com.huaweicloud</groupId>
 			<artifactId>esdk-obs-java</artifactId>
-			<version>3.20.6.1</version>
+			<version>3.24.3</version>
 			<exclusions>
 				<exclusion>
 					<groupId>org.apache.logging.log4j</groupId>
@@ -255,12 +255,12 @@
 		<dependency>
 			<groupId>org.gitlab4j</groupId>
 			<artifactId>gitlab4j-api</artifactId>
-			<version>4.15.7</version>
+			<version>5.0.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.redisson</groupId>
 			<artifactId>redisson</artifactId>
-			<version>3.8.0</version>
+			<version>3.21.1</version>
 			<exclusions>
 				<exclusion>
 					<artifactId>snakeyaml</artifactId>
